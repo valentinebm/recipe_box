@@ -63,3 +63,5 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem 'haml', '5.0.0.beta.2'
 gem 'simple_form', '~> 4.0.0'
+gem 'bootstrap', '~> 4.0'
+gem 'carrierwave', '~> 0.11.2'
